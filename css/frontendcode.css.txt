@@ -1,3 +1,4 @@
-p{
+body{
   font-size: 10px;
+  bold: 10px
 }
